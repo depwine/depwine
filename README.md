@@ -21,6 +21,7 @@
 
 Projects: 
   - <a href ="https://lustrous-cobbler-174e6c.netlify.app/">React : Feed.me</a>
+  - <a href ="https://github.com/depwine/project-twitter-clone/tree/master"> Twitter Clone </a>
   - <a href ="https://depwine.github.io/calculator/">JS: calculator</a>
   - <a href ="https://depwine.github.io/tic-tac-toe/">JS: tic-tac-toe</a>
   -  <a href ="https://depwine.github.io/admin-page/">JS: mock admin page</a>
