@@ -20,7 +20,10 @@
 <h2> / about me /</h2>
 
 Projects: 
-  - <a href ="https://lustrous-cobbler-174e6c.netlify.app/">React : Feed.me</a>
+  - <a href ="https://github.com/depwine/final-proj-webDev2023-Fridge/tree/main">React : Feed.me (code)</a>
+  - <a href ="https://lustrous-cobbler-174e6c.netlify.app/">React : Feed.me (live view)</a>
+  
+  
   - <a href="https://github.com/depwine/twitter-clone">React : Front End - Twitter Clone (Back-end was from template) </a>
   - <a href ="https://depwine.github.io/calculator/">JS: calculator</a>
   - <a href ="https://depwine.github.io/tic-tac-toe/">JS: tic-tac-toe</a>
